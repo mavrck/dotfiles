@@ -1,5 +1,6 @@
 
 mas install 918858936 # Airmail 4
+mas install 937984704 # Amphetamine
 mas install 425264550 # Blackmagic Disk Speed Test
 mas install 442160773 # Cocoa JSON Editor
 mas install 418138339 # HTTP Client

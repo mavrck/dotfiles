@@ -86,7 +86,6 @@ brew cask install authy
 brew cask install backblaze
 brew cask install bartender
 brew cask install basecamp
-brew cask install caffeine
 brew cask install carbon-copy-cloner
 brew cask install dash
 brew cask install discord
