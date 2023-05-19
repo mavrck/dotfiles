@@ -50,7 +50,6 @@ brew install gmp
 
 # Install other useful binaries.
 brew install ack
-brew install ansible
 brew install argon2
 brew install aspell
 brew install bat
@@ -75,6 +74,8 @@ brew install tmux
 brew install tree
 brew install whois
 brew install wget
+brew install mkcert
+brew install nss
 
 # Installs Casks
 brew tap homebrew/cask-cask
