@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+#/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Install command-line tools using Homebrew.
 
@@ -60,6 +60,7 @@ brew install flac
 brew install git
 brew install git-lfs
 brew install gs
+brew install btop
 brew install htop
 brew install imagemagick
 brew install mas
@@ -85,18 +86,18 @@ brew cask install 1password
 #brew cask install alfred
 brew cask install authy
 brew cask install backblaze
-brew cask install bartender
-brew cask install basecamp
-brew cask install carbon-copy-cloner
-brew cask install dash
-brew cask install discord
-brew cask install dropbox
-brew cask install droplr
-brew cask install duet
-brew cask install fantastical
+#brew cask install bartender
+#brew cask install basecamp
+#brew cask install carbon-copy-cloner
+#brew cask install dash
+#brew cask install discord
+#brew cask install dropbox
+#brew cask install droplr
+#brew cask install duet
+#brew cask install fantastical
 brew cask install firefox
 brew cask install homebrew/cask-versions/firefox-nightly # Nightly
-brew cask install flux
+#brew cask install flux
 brew cask install github
 brew cask install google-chrome
 brew cask install homebrew/cask-versions/google-chrome-canary # Chrome Canary
@@ -105,28 +106,28 @@ brew cask install grandperspective
 brew cask install handbrake
 brew cask install imagealpha
 brew cask install imageoptim
-brew cask install insomnia
+#brew cask install insomnia
 brew cask install iterm2
 brew cask install jetbrains-toolbox
 brew cask install kaleidoscope
-brew cask install lastpass
-brew cask install microsoft-edge
-brew cask install microsoft-excel
-brew cask install microsoft-powerpoint
-brew cask install microsoft-word
+#brew cask install lastpass
+#brew cask install microsoft-edge
+#brew cask install microsoft-excel
+#brew cask install microsoft-powerpoint
+#brew cask install microsoft-word
 brew cask install moom
 brew cask install navicat-premium-essentials
 brew cask install ngrok
-brew cask install omnigraffle
-brew cask install pandora
-brew cask install plex
-brew cask install pocket-casts
+#brew cask install omnigraffle
+#brew cask install pandora
+#brew cask install plex
+#brew cask install pocket-casts
 brew cask install purevpn
 brew cask install rescuetime
-brew cask install resilio-sync
-brew cask install sequel-pro
-brew cask install sketch
-brew cask install skitch
+#brew cask install resilio-sync
+#brew cask install sequel-pro
+#brew cask install sketch
+#brew cask install skitch
 brew cask install slack
 brew cask install spotify
 brew cask install sqleditor
@@ -136,14 +137,14 @@ brew cask install stoplight-studio
 brew cask install transmission
 brew cask install transmit
 brew cask install transmit-disk
-brew cask install tripmode
-brew cask install tuple
+#brew cask install tripmode
+#brew cask install tuple
 brew cask install vagrant
 brew cask install veracrypt
 brew cask install virtualbox
 brew cask install visual-studio-code
 brew cask install vlc
-brew cask install webstorm
+#brew cask install webstorm
 
 # Remove outdated versions from the cellar.
 brew cleanup
