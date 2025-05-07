@@ -79,72 +79,73 @@ brew install mkcert
 brew install nss
 
 # Installs Casks
-brew tap homebrew/cask-cask
+#brew tap homebrew/cask-cask
 
 ## Apps I use
-brew cask install 1password
-#brew cask install alfred
-brew cask install authy
-brew cask install backblaze
-#brew cask install bartender
-#brew cask install basecamp
-#brew cask install carbon-copy-cloner
-#brew cask install dash
-#brew cask install discord
-#brew cask install dropbox
-#brew cask install droplr
-#brew cask install duet
-#brew cask install fantastical
-brew cask install firefox
-brew cask install homebrew/cask-versions/firefox-nightly # Nightly
-#brew cask install flux
-brew cask install github
-brew cask install google-chrome
-brew cask install homebrew/cask-versions/google-chrome-canary # Chrome Canary
-brew cask install grammarly
-brew cask install grandperspective
-brew cask install handbrake
-brew cask install imagealpha
-brew cask install imageoptim
-#brew cask install insomnia
-brew cask install iterm2
-brew cask install jetbrains-toolbox
-brew cask install kaleidoscope
-#brew cask install lastpass
-#brew cask install microsoft-edge
-#brew cask install microsoft-excel
-#brew cask install microsoft-powerpoint
-#brew cask install microsoft-word
-brew cask install moom
-brew cask install navicat-premium-essentials
-brew cask install ngrok
-#brew cask install omnigraffle
-#brew cask install pandora
-#brew cask install plex
-#brew cask install pocket-casts
-brew cask install purevpn
-brew cask install rescuetime
-#brew cask install resilio-sync
-#brew cask install sequel-pro
-#brew cask install sketch
-#brew cask install skitch
-brew cask install slack
-brew cask install spotify
-brew cask install sqleditor
-brew cask install stoplight-studio
-# brew cask install tableplus
-# brew cask install tower
-brew cask install transmission
-brew cask install transmit
-brew cask install transmit-disk
-#brew cask install tripmode
-#brew cask install tuple
-brew cask install vagrant
-brew cask install veracrypt
-brew cask install virtualbox
-brew cask install visual-studio-code
-brew cask install vlc
-#brew cask install webstorm
+brew install --cask 1password
+#brew install --cask alfred
+brew install --cask authy
+brew install --cask backblaze
+#brew install --cask bartender
+#brew install --cask basecamp
+#brew install --cask carbon-copy-cloner
+#brew install --cask dash
+#brew install --cask discord
+#brew install --cask dropbox
+#brew install --cask droplr
+#brew install --cask duet
+#brew install --cask fantastical
+brew install --cask firefox
+brew install --cask homebrew/cask-versions/firefox-nightly # Nightly
+#brew install --cask flux
+brew install --cask github
+brew install --cask google-chrome
+brew install --cask homebrew/cask-versions/google-chrome-canary # Chrome Canary
+brew install --cask grammarly
+brew install --cask grandperspective
+brew install --cask handbrake
+brew install --cask imagealpha
+brew install --cask imageoptim
+#brew install --cask insomnia
+brew install --cask iterm2
+brew install --cask jetbrains-toolbox
+brew install --cask kaleidoscope
+#brew install --cask lastpass
+#brew install --cask microsoft-edge
+#brew install --cask microsoft-excel
+#brew install --cask microsoft-powerpoint
+#brew install --cask microsoft-word
+brew install --cask moom
+brew install --cask navicat-premium-essentials
+brew install --cask ngrok
+#brew install --cask omnigraffle
+#brew install --cask pandora
+#brew install --cask plex
+#brew install --cask pocket-casts
+brew install --cask purevpn
+brew install --cask rescuetime
+#brew install --cask resilio-sync
+#brew install --cask sequel-pro
+#brew install --cask sketch
+#brew install --cask skitch
+brew install --cask slack
+brew install --cask spotify
+brew install --cask sqleditor
+brew install --cask stoplight-studio
+#brew install --cask tableplus
+#brew install --cask tower
+brew install --cask transmission
+brew install --cask transmit
+brew install --cask transmit-disk
+#brew install --cask tripmode
+#brew install --cask tuple
+brew install --cask vagrant
+brew install --cask veracrypt
+brew install --cask virtualbox
+brew install --cask visual-studio-code
+brew install --cask vlc
+#brew install --cask webstorm
+
 
 # Remove outdated versions from the cellar.
 brew cleanup
