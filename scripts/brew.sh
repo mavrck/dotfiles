@@ -54,13 +54,14 @@ brew install argon2
 brew install aspell
 brew install bat
 brew install brotli
+brew install btop
 brew install curl-openssl
 brew install ffmpeg
 brew install flac
+brew install gh
 brew install git
 brew install git-lfs
 brew install gs
-brew install btop
 brew install htop
 brew install imagemagick
 brew install mas
