@@ -83,21 +83,10 @@ brew install nss
 
 ## Apps I use
 brew install --cask 1password
-#brew install --cask alfred
-brew install --cask authy
 brew install --cask backblaze
 #brew install --cask bartender
-#brew install --cask basecamp
-#brew install --cask carbon-copy-cloner
-#brew install --cask dash
-#brew install --cask discord
-#brew install --cask dropbox
-#brew install --cask droplr
-#brew install --cask duet
-#brew install --cask fantastical
 brew install --cask firefox
 brew install --cask homebrew/cask-versions/firefox-nightly # Nightly
-#brew install --cask flux
 brew install --cask github
 brew install --cask google-chrome
 brew install --cask homebrew/cask-versions/google-chrome-canary # Chrome Canary
@@ -106,11 +95,9 @@ brew install --cask grandperspective
 brew install --cask handbrake
 brew install --cask imagealpha
 brew install --cask imageoptim
-#brew install --cask insomnia
 brew install --cask iterm2
 brew install --cask jetbrains-toolbox
 brew install --cask kaleidoscope
-#brew install --cask lastpass
 #brew install --cask microsoft-edge
 #brew install --cask microsoft-excel
 #brew install --cask microsoft-powerpoint
@@ -125,8 +112,6 @@ brew install --cask ngrok
 brew install --cask purevpn
 brew install --cask rescuetime
 #brew install --cask resilio-sync
-#brew install --cask sequel-pro
-#brew install --cask sketch
 #brew install --cask skitch
 brew install --cask slack
 brew install --cask spotify
