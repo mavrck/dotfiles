@@ -131,7 +131,7 @@ brew install --cask virtualbox
 brew install --cask visual-studio-code
 brew install --cask vlc
 #brew install --cask webstorm
-
+brew install --cask zoom
 
 # Remove outdated versions from the cellar.
 brew cleanup
