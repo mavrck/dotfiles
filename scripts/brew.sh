@@ -141,6 +141,11 @@ brew install --cask firefox@nightly
 brew install --cask elgato-camera-hub
 brew install --cask elgato-control-center
 brew install --cask elgato-stream-deck
+brew install --cask figma
+brew install --cask herd
+brew install --cask ray
+brew install --cask cursor
+brew install --cask tower
 
 # Remove outdated versions from the cellar.
 brew cleanup
