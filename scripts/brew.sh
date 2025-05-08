@@ -133,6 +133,7 @@ brew install --cask vlc
 #brew install --cask webstorm
 brew install --cask zoom
 brew install --cask warp
+brew install --cask tableplus
 
 # Remove outdated versions from the cellar.
 brew cleanup
