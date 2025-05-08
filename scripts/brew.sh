@@ -134,6 +134,7 @@ brew install --cask vlc
 brew install --cask zoom
 brew install --cask warp
 brew install --cask tableplus
+brew install --cask postman
 
 # Remove outdated versions from the cellar.
 brew cleanup
