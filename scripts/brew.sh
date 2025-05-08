@@ -135,6 +135,9 @@ brew install --cask zoom
 brew install --cask warp
 brew install --cask tableplus
 brew install --cask postman
+brew install --cask tinkerwell
+brew install --cask firefox@developer-edition
+brew install --cask firefox@nightly
 
 # Remove outdated versions from the cellar.
 brew cleanup
