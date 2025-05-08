@@ -146,6 +146,7 @@ brew install --cask herd
 brew install --cask ray
 brew install --cask cursor
 brew install --cask tower
+brew install --cask bartender
 
 # Remove outdated versions from the cellar.
 brew cleanup
