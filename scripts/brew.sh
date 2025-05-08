@@ -138,6 +138,9 @@ brew install --cask postman
 brew install --cask tinkerwell
 brew install --cask firefox@developer-edition
 brew install --cask firefox@nightly
+brew install --cask elgato-camera-hub
+brew install --cask elgato-control-center
+brew install --cask elgato-stream-deck
 
 # Remove outdated versions from the cellar.
 brew cleanup
