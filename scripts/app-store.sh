@@ -9,5 +9,6 @@ mas install 6448461551 # Command X
 mas install 6739782043 # Launchy
 mas install 6698876601 # Folder Preview
 mas install 918858936  # Airmail 5
+mas install 1458969831 # JSON Peep for Safari
 
 mas upgrade
