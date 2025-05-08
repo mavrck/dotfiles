@@ -148,6 +148,7 @@ brew install --cask cursor
 brew install --cask tower
 brew install --cask bartender
 brew install --cask adobe-creative-cloud
+brew install --cask cleanshot
 
 # Remove outdated versions from the cellar.
 brew cleanup
