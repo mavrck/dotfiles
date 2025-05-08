@@ -132,6 +132,7 @@ brew install --cask visual-studio-code
 brew install --cask vlc
 #brew install --cask webstorm
 brew install --cask zoom
+brew install --cask warp
 
 # Remove outdated versions from the cellar.
 brew cleanup
